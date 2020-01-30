@@ -1,4 +1,4 @@
-# Google-IT-Automation-with-Python-Professional-Certificate
+# Google IT Automation with Python Professional Certification
 My projects for the Google IT Automation with Python certification
 
 ## Crash Course with Python (First module)
