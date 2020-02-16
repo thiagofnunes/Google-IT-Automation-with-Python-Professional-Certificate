@@ -10,3 +10,9 @@ You will find the Jupyter Notebook with the assignment and the .txt book The Lif
 The bash script reads the files from the data/list.txt, stores it in a file (tempFile.txt) and the reads it to a variable where it goes through the files in the directory and checks if they exist.
 #### changeJane.py
 The python script reads the result file (oldFiles.txt) and then renames each one of them from jane to jdoe.
+
+## Using Python to Interact with the Operating System (Week 7)
+### Final Project
+The python script ticky_check.py is my submission of the last project.
+It will read the syslog.log and check the error count (error_message.csv) and user ocurrances (error and information logs) into the user_statistics.csv.
+ 
