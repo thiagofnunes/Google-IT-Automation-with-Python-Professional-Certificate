@@ -13,6 +13,10 @@ The python script reads the result file (oldFiles.txt) and then renames each one
 
 ## Using Python to Interact with the Operating System (Week 7)
 ### Final Project
-The python script ticky_check.py is my submission of the last project.
-It will read the syslog.log and check the error count (error_message.csv) and user ocurrances (error and information logs) into the user_statistics.csv.
+#### Ticky_check.py
+It will read the logs and generate two csv files based on the user counter and error counter on each line of the log file.
+#### User_statistics.csv
+This CSV file contains how many times each user appears on the info and error messages from the logs.
+#### Error_Message.csv
+This CSV file contains the types of errors on the logs file and the number of each occurrence.
  
