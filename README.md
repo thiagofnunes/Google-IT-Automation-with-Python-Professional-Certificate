@@ -21,6 +21,10 @@ This CSV file contains how many times each user appears on the info and error me
 This CSV file contains the types of errors on the logs file and the number of each occurrence.
  
 ## Automating Real-World Tasks with Python
-### scale_image.py
-#### Scale and convert images using PIL
+### Week 1 - Scale and convert images using PIL
+#### scale_image.py
 This script executes the assignment. It reads all the icons in the image folder, rotates it 90 degrees clockwise, resizes to 128x128 and saves it on a different folder: "/opt/icons/"
+
+### Week 2 - Process Text Files with Python Dictionaries and Upload to Running Web Service
+#### run.py
+This script reads the text files from the desired location, creates a dictionary and appends the line to a certain key and then sends the dictionary as a JSON using the POST method to the assigned URL.
