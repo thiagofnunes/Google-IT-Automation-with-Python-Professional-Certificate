@@ -28,3 +28,12 @@ This script executes the assignment. It reads all the icons in the image folder,
 ### Week 2 - Process Text Files with Python Dictionaries and Upload to Running Web Service
 #### run.py
 This script reads the text files from the desired location, creates a dictionary and appends the line to a certain key and then sends the dictionary as a JSON using the POST method to the assigned URL.
+
+### Week 3 - Automatically Generate a PDF and send it by Email
+#### examples.py
+Fixes a minor error on the default code and adds the kiwi row, generates the PDF and sends through email.
+#### cars.py
+Reads the cars .json file and tries to find:
+1. Calculate the car model which had the most sales.
+2. Calculate the year with the most sales.
+After doing all that it generates a PDF with all the desired information and sends it via email.
